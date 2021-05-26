@@ -1,0 +1,8 @@
+config:
+  url:
+    part-url-meduza-news: https://meduza.io/api/v3/search?chrono=news&locale=ru&
+    page: page
+    per-page: per_page=24
+
+server:
+    port: 8090
